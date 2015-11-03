@@ -23,6 +23,8 @@ There are two ways to search:
 - REST request URI
 - REST request body
 
+Combine with the REST request body, the Query DSL allow us to build more precise and complex query.
+
 
 
 
