@@ -19,6 +19,10 @@ We are indexing some data into Elasticsearch and we want to be able to query thi
 
 ### Searching data
 
+There are two ways to search:
+- REST request URI
+- REST request body
+
 
 
 
